@@ -17,6 +17,7 @@ RUN dnf -y update && \
         wget \
         passwd \
         dbus \
+        nano \
         policycoreutils \
         openssh-server \
         policycoreutils-python-utils \
